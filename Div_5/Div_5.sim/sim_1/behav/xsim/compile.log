@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/abhis/Div_5/Div_5.srcs/sim_1/new/Div_5.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Div_5
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/abhis/Div_5/Div_5.srcs/sim_1/new/tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/abhis/Div_5/Div_5.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
